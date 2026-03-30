@@ -75,7 +75,7 @@
 
   ● 3. 실습 결과
     
-   ○[소개팅 애프터 여부](https://github.com/WoojinKim-1/likelion-activities/blob/main/likelion_SCH/2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1(S).ipynb)
+   ○[소개팅 애프터 여부](https://github.com/uoojin7280-1/likelion-14th_AI_Activities/blob/main/likelion_SCH/2%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C%20%EA%B9%80%EC%9A%B0%EC%A7%84.ipynb)
   
   
   ● 4. 배운 점/ 느낀 점/ 다음 목표
