@@ -16,7 +16,7 @@
 
   ● 3. 실습 결과
 
-  ○ [타이타닉 생존자](https://github.com/WoojinKim-1/TIL-Today-I-learned-/blob/main/likelion_SCH/1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1(1).ipynb)
+  ○ [타이타닉 생존자](https://github.com/uoojin7280-1/likelion-14th_AI_Activities/blob/main/likelion_SCH/1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1(1).ipynb)
   
   ○ [수원시 행정인구](https://github.com/WoojinKim-1/TIL-Today-I-learned-/blob/main/likelion_SCH/1%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1(2).ipynb)
 
