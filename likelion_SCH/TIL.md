@@ -136,6 +136,7 @@
 
    ● 3. 실습 결과
 
+○ [심장병 예측](https://github.com/uoojin7280-1/likelion-14th_AI_Activities/blob/main/likelion_SCH/%5B3%EC%A3%BC%EC%B0%A8%5D%20%EA%B9%80%EC%9A%B0%EC%A7%84%20%EA%B3%BC%EC%A0%9C_TIL.ipynb) 
 
    ● 4. 배운 점/ 느낀 점/ 다음 목표
 
