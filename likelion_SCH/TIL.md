@@ -213,4 +213,4 @@
 
   ● 4. 실습 결과
 
-  ○[딥러닝 실습](
+  ○[딥러닝 실습](https://github.com/uoojin7280-1/likelion-14th_AI_Activities/blob/main/likelion_SCH/%5B4%EC%A3%BC%EC%B0%A8%5D%20%EA%B9%80%EC%9A%B0%EC%A7%84%20%EA%B3%BC%EC%A0%9C%20%EC%A0%9C%EC%B6%9C.ipynb)
