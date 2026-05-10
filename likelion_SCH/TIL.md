@@ -237,10 +237,7 @@
       → 1번에서 형성한 특징 맵의 크기를 줄임, ex) Max Pooling, Average Pooling
 
 
-
-   
-   ○ LLM : 언어 처리에 특화
-     
+    ○ LLM : 언어 처리에 특화 
     핵심 원리 : 다음에 올 그럴듯한 단어 예측을 계속해서 반복하여 긴 문장 완성
      → Transformer(Attention Algorithm) : 문장에서 어떤 단어가 어떤 단어와 관련 있는지를 스스로 판단
      
